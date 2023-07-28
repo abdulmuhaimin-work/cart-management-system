@@ -33,7 +33,9 @@ $ yarn install
 ```
 
 ## Running the app
-
+```bash
+first plase define the variable in .env file, or directly change credentials in src/app.module.ts
+```
 ```bash
 # development
 $ yarn run start
