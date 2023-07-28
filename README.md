@@ -26,7 +26,7 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
-![ERD Diagram](./ERD.png)
+![ERD Diagram](./CartERD.png)
 
 ## Installation
 
